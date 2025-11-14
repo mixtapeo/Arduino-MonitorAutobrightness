@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/1904bc15-6403-4a0b-95c4-2dbb4e4810ad
 2. Run brightnesscontrol.py - should be changing brightness now
 
 ## Requirements
-- Python 3.19.3
+- Python 3.9.3
 - Arduino with light sensor (I used an Uno R4 Wifi)
 - Windows OS with DDC/CI capable monitors
 
