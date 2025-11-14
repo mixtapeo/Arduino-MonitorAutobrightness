@@ -2,6 +2,8 @@
 
 An Arduino-based automatic brightness control system that adjusts monitor brightness based on ambient light sensor readings.
 
+https://github.com/user-attachments/assets/1904bc15-6403-4a0b-95c4-2dbb4e4810ad
+
 ## Setup Process
 
 ### 1. Monitor Feature Code Discovery
@@ -35,5 +37,4 @@ An Arduino-based automatic brightness control system that adjusts monitor bright
 ## Files
 - `autobrightness.ino` - Arduino sensor code
 - `brightnesscontrol.py` - Main brightness control script
-- `test.py` - Testing/debugging script
 - `winddcutil.exe` - DDC/CI utility for Windows
